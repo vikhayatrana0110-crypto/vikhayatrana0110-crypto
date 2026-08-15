@@ -4,7 +4,9 @@ I build things with language models. Mostly Python, PyTorch, whatever makes the 
 
 What I'm Into Right Now
 LLMs & Generative AI – The obvious one. Fine-tuning, prompt engineering, getting models to actually do what you ask
+
 Turning Ideas Into Code – Going from "wouldn't it be cool if..." to something that actually runs
+
 Making AI Less of a Black Box – Interpretability, understanding why models make the choices they do
 
 What You'll Find Here
