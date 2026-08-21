@@ -10,6 +10,7 @@ Turning Ideas Into Code – Going from "wouldn't it be cool if..." to something 
 Making AI Less of a Black Box – Interpretability, understanding why models make the choices they do
 
 What You'll Find Here
+
 Private repos,Experiments, side projects, things that were interesting enough to ship. Some of them work better than others.
 
 Let's Talk
